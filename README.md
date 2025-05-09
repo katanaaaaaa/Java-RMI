@@ -32,7 +32,9 @@ Compile and run the server:
 javac *.java
 rmiregistry &
 java THServer
+```
 
 Run the client:
+```bash
 java THClient
-
+```
